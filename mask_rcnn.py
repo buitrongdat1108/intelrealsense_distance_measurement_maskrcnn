@@ -1,4 +1,3 @@
-# https://pysource.com/instance-segmentation-mask-rcnn-with-python-and-opencv
 import cv2
 import numpy as np
 
