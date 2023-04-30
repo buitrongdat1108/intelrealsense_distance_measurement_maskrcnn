@@ -1,7 +1,7 @@
 import tensorflow as tf
 import tensorrt as trt
 gpus = tf.config.list_physical_devices('GPU')
-print("Này thì aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaAAAAAAAAAAAAAAAAAAAAAAAAAA", gpus)
+print("Device's info: ", gpus)
 if gpus:
   # Restrict TensorFlow to only use the first GPU
   try:
