@@ -94,6 +94,7 @@ class MaskRCNN:
 
             for cnt in contours:
                 # cv2.f(roi, [cnt], (int(color[0]), int(color[1]), int(color[2])))
+                # thêm cái [cnt] trong ngoặc vuông cho nó thủ tục
                 cv2.drawContours(roi, [cnt], - 1, (int(color[0]), int(color[1]), int(color[2])), 3)
                 cv2.fillPoly(roi_copy, [cnt], (int(color[0]), int(color[1]), int(color[2])))
                 roi = cv2.addWeighted(roi, 1, roi_copy, 0.5, 0.0)
