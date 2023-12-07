@@ -1,5 +1,7 @@
 __pycache__/mask_rcnn.cpython-39.pyc
 __pycache__/mask_rcnn.cpython-311.pyc
+.idea/measure_object_distance.iml
+.idea/misc.xml
 .idea/vcs.xml
 __pycache__/realsense_camera.cpython-39.pyc
 __pycache__/realsense_camera.cpython-311.pyc
