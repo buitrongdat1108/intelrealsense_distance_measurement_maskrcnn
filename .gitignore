@@ -15,3 +15,12 @@ dnn/mask_rcnn_inception_v2_coco_2018_01_28/model.ckpt.meta
 dnn/mask_rcnn_inception_v2_coco_2018_01_28/pipeline.config
 dnn/mask_rcnn_inception_v2_coco_2018_01_28/saved_model/saved_model.pb
 dnn/README.md
+__pycache__/mask_rcnn.cpython-36.pyc
+__pycache__/realsense_camera.cpython-36.pyc
+dnn/ssd_mobilenet_v1_coco_2017_11_17/checkpoint
+dnn/ssd_mobilenet_v1_coco_2017_11_17/frozen_inference_graph.pb
+dnn/ssd_mobilenet_v1_coco_2017_11_17/model.ckpt.data-00000-of-00001
+dnn/ssd_mobilenet_v1_coco_2017_11_17/model.ckpt.index
+dnn/ssd_mobilenet_v1_coco_2017_11_17/model.ckpt.meta
+dnn/ssd_mobilenet_v1_coco_2017_11_17/ssd_mobilenet_v1_coco_2017_11_17.pbtxt
+dnn/ssd_mobilenet_v1_coco_2017_11_17/saved_model/saved_model.pb
