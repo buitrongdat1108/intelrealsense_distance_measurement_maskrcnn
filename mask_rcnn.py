@@ -28,6 +28,7 @@ class MaskRCNN:
         self.obj_centers = []
         self.obj_contours = []
 
+
         # Distances
         self.distances = []
 
